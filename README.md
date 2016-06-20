@@ -17,6 +17,8 @@ lbyec72-ei2-p3-single_multidimensional_arrays-JimMallari created by GitHub Class
 ![](Capture12.PNG)
 ![](Capture13.PNG)
 ![](Capture14.PNG)
+![](Capture14.1.PNG)
+![](Capture14.2.PNG)
 ![](Capture15.PNG)
 ![](Capture16.PNG)
 ![](Capture17.PNG)
